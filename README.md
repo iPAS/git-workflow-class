@@ -17,5 +17,13 @@
 
 - Install: Sourcetree -- Present the repo graphically
 - Overview on PoewrShell:
-    - [PowerShell for Beginners](https://www.youtube.com/watch?v=QKBcHuA3VJE) -- Overview how-to-use on different OSes
-    - [PowerShell for Beginners++](https://www.youtube.com/watch?v=oG9FlTUgITE) -- Giving deeper details, in Thai
+  - [PowerShell for Beginners](https://www.youtube.com/watch?v=QKBcHuA3VJE) -- Overview how-to-use on different OSes
+  - [PowerShell for Beginners++](https://www.youtube.com/watch?v=oG9FlTUgITE) -- Giving deeper details, in Thai
+
+
+## Post-study
+
+- Learn the working methodologies, Agile
+  - [Summarized by me (AI assisted)](agile.md)
+  - [Overview by Skooldio](https://www.youtube.com/watch?v=4b1_yn2JPb4)
+  - [Terms explained by @DanuvasinCharoen](https://www.youtube.com/watch?v=G1c4vogpWEQ)
