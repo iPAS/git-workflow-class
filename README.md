@@ -27,3 +27,6 @@
   - [Summarized by me (AI assisted)](agile.md)
   - [Overview by Skooldio](https://www.youtube.com/watch?v=4b1_yn2JPb4)
   - [Terms explained by @DanuvasinCharoen](https://www.youtube.com/watch?v=G1c4vogpWEQ)
+- [My presentation](https://docs.google.com/presentation/d/1dh1F4AGEeUjKUjC1tx_xjDttffPZTFwnuaRYfqXi1ig/edit?usp=sharing)
+  which there are links where we talked about.
+- Miss me? .. [my LinkedIn account](https://www.linkedin.com/in/ptiwatthanont/)
