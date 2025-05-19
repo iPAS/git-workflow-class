@@ -1,4 +1,3 @@
-#
 import yfinance as yf
 import argparse
 import sys
