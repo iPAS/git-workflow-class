@@ -1,0 +1,6 @@
+typer[all]
+yfinance
+pandas
+matplotlib
+feedparser
+bs4
